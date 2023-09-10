@@ -2,3 +2,4 @@ Flask
 gunicorn
 sqlalchemy
 flask-sqlalchemy
+psycopg2
