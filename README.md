@@ -20,7 +20,7 @@ The NamesOfPips API is a simple RESTful API for managing a list of people's name
 
 ### Prerequisites
 
-Before you can use the NamesOfPips API, ensure you have the following prerequisites installed on your system:
+Before you can use the NameApi API, ensure you have the following prerequisites installed on your system:
 
 - Python 3.x
 - Flask
