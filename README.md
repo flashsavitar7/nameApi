@@ -1,6 +1,6 @@
 # NameApi API Documentation
 
-The NamesOfPips API is a simple RESTful API for managing a list of people's names. It allows you to perform basic CRUD (Create, Read, Update, Delete) operations on individual records in the database.
+The NameApi API is a simple RESTful API for managing a list of people's names. It allows you to perform basic CRUD (Create, Read, Update, Delete) operations on individual records in the database.
 
 ## Table of Contents
 
